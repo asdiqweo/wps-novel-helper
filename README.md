@@ -304,14 +304,6 @@ npm run build
 wpsjs debug --port 3900
 ```
 
-### Q6: 支持哪些WPS版本？
-
-**A**:
-- ✅ WPS Office 专业版
-- ✅ WPS AI 专业版
-- ✅ WPS 2019 及更高版本
-- ❌ 个人版不支持插件开发
-
 ## 📦 构建和部署
 
 ### 开发环境构建
