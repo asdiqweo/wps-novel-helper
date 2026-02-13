@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JsPlugin>
+  <ApiVersion>1.0.0</ApiVersion>
+  <Name>小说助手</Name>
+  <Description>辅助作者创作，支持随机生成人名和国家名，支持东方/西方/古代/现代等多种风格</Description>
+</JsPlugin>
